@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "demoRS"
+  "defaultProject": "demoRS",
+  "cli": {
+    "analytics": "20e5ad6a-b214-4bfb-bda5-c5049ff661b8"
+  }
 }
